@@ -1,5 +1,5 @@
 {
-  "name": "think/base-theme",
+  "name": "start/base-theme",
   "description": "Starter theme with predefined general settings",
   "type": "wordpress-starter-theme",
   "minimum-stability": "stable",
@@ -10,8 +10,8 @@
   },
   "authors": [
     {
-      "name": "Team of Think.mt",
-      "email": "info@think.mt"
+      "name": "Start theme",
+      "email": "info@start.com"
     }
   ],
   "repositories": [
@@ -32,7 +32,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Think\\": "classes/"
+      "Start\\": "classes/"
     }
   }
 }
